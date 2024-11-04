@@ -1,3 +1,9 @@
+# Election demo
+
+My COMP6841 something awesome project code!
+
+Run with `go run main.go`.
+
 <!--
 
 docker (distroless)
@@ -20,4 +26,4 @@ https://github.com/gofiber/recipes/blob/master/auth-docker-postgres-jwt/cmd/main
 https://github.com/grafana/tempo/tree/main/example/docker-compose/otel-collector
 https://github.com/open-telemetry/opentelemetry-collector-contrib/blob/main/connector/spanmetricsconnector/README.md
 
- -->
+-->
